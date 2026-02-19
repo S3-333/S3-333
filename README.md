@@ -1,10 +1,10 @@
 <h1 align="center">
-  <b>Hola, Soy Santiago Cabornero</b>
+  <b>Hi, I’m Santiago Cabornero</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <p align="center">
-  🎓 Técnico en Informática · 💻 Desarrollador Junior · IA 🤖
+  🎓 IT Technician · 💻 Junior Developer · AI 🤖
   <br/>
   📍 Buenos Aires, Argentina
 </p>
@@ -12,22 +12,22 @@
 ---
 
 <p align="center">
-  Me interesa el desarrollo de software con foco en <b>calidad, procesos y mejora continua</b>.  
+  I’m interested in software development with a strong focus on <b>quality, processes, and continuous improvement</b>.  
   <br/>
-  Tengo experiencia en <b>backend, frontend y documentación funcional</b>, con una visión integral del ciclo de desarrollo.
+  I have experience in <b>backend, frontend, and functional documentation</b>, with a holistic view of the software development lifecycle.
 </p>
 
 ---
 
-## 🧠 Áreas de interés
-- Desarrollo Web y software (Frontend & Backend)
-- Análisis funcional y documentación de procesos
-- Automatización, testing y buenas prácticas
-- Inteligencia artificial y ciencia de datos
+## 🧠 Areas of Interest
+- Web and software development (Frontend & Backend)
+- Functional analysis and process documentation
+- Automation, testing, and best practices
+- Artificial Intelligence and Data Science
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Technologies
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,11 +42,11 @@
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### Bases de datos
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
-### Herramientas
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -54,14 +54,14 @@
 
 ---
 
-## 🚀 En qué estoy trabajando
-- Proyectos personales para portfolio
-- Automatización y testing
-- Mejora de arquitectura y documentación
+## 🚀 What I’m Working On
+- Personal projects for my portfolio
+- Automation and testing
+- Improving architecture and documentation
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 <p align="center">
   <a href="https://www.linkedin.com/in/santiago-iván-cabornero">
     <img src="https://img.shields.io/badge/LinkedIn-Santiago%20Cabornero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -73,5 +73,5 @@
 ---
 
 <p align="center">
-  <i>Siempre aprendiendo y mejorando 🚀</i>
+  <i>Always learning and improving 🚀</i>
 </p>
