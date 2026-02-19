@@ -9,18 +9,17 @@ Tengo experiencia en **backend, frontend y documentación funcional**, con una v
 ---
 
 ### 🧠 Áreas de interés
-- Desarrollo Web (Frontend & Backend)
-- Quality Assurance (QA)
+- Desarrollo Web y software (Frontend & Backend)
 - Análisis funcional y documentación de procesos
 - Automatización y buenas prácticas
 
 ---
 
 ### 🛠️ Tecnologías
-**Frontend:** HTML, CSS, JavaScript, Astro, Tailwind  
+**Frontend:** HTML, CSS, JavaScript, Astro, TailwindCSS
 **Backend & DevOps:** Python, Docker, Terraform, AWS  
-**Bases de datos:** SQL, MySQL  
-**Herramientas:** Git, Jira, Figma, Linux
+**Bases de datos:** MySQL, Microsoft Access  
+**Herramientas:** Git, Jira, Figma, Photoshop
 
 ---
 
