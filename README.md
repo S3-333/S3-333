@@ -32,4 +32,4 @@ Tengo experiencia en **backend, frontend y documentación funcional**, con una v
 
 ### 📫 Contacto
 - 💼 LinkedIn: https://www.linkedin.com/in/santiago-iván-cabornero  
-- ✉️ Email: santiagoivancabornero@gmail.com
+- ✉️ Email: santiagoivancabornero@gmail.com & santiagoivancabornero@gmail.com
