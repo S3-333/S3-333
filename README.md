@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hola, soy Santiago Cabornero
 
-<!--
-**S3-333/S3-333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnico en Informática | 💻 Desarrollador Junior  
+📍 Buenos Aires, Argentina  
 
-Here are some ideas to get you started:
+Me interesa el desarrollo de software con foco en **calidad, procesos y mejora continua**.  
+Tengo experiencia en **backend, frontend y documentación funcional**, con una visión integral del ciclo de desarrollo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Áreas de interés
+- Desarrollo Web (Frontend & Backend)
+- Quality Assurance (QA)
+- Análisis funcional y documentación de procesos
+- Automatización y buenas prácticas
+
+---
+
+### 🛠️ Tecnologías
+**Frontend:** HTML, CSS, JavaScript, Astro, Tailwind  
+**Backend & DevOps:** Python, Docker, Terraform, AWS  
+**Bases de datos:** SQL, MySQL  
+**Herramientas:** Git, Jira, Figma, Linux
+
+---
+
+### 🚀 En qué estoy trabajando
+- Proyectos personales para portfolio
+- Automatización y testing
+- Mejora de arquitectura y documentación
+
+---
+
+### 📫 Contacto
+- 💼 LinkedIn: https://www.linkedin.com/in/santiago-iván-cabornero  
+- ✉️ Email: santiagoivancabornero@gmail.com
